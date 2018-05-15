@@ -1,0 +1,31 @@
+body{
+	background-color: #d1e2ff;
+}
+.container{
+	background-color: #f2f2f2;
+}
+.row{
+ margin-top: 15px;
+}
+.book{
+	text-align: center;
+}
+.book-cover{
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+
+}
+.book-name{
+	font-weight: bold;
+}
+a{
+	display: block;
+}
+h1{
+	font-weight: bold;
+}
+.book-panel{
+
+}
